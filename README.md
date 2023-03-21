@@ -1,2 +1,4 @@
-# StreamVID
-A video streaming application which uses Youtube API for fetching videos and content details.....made using React JS, NodeJS and tailwind
+# Build and Deploy a Modern video streaming Application in React JS with Material UI 5
+
+
+
